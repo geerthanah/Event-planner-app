@@ -1,0 +1,40 @@
+# Node modules
+frontend/node_modules/
+
+# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Environment variables
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build output
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/dist/
+
+# TypeScript
+frontend/*.tsbuildinfo
+
+# Vercel & Netlify (if deploying)
+frontend/.vercel/
+frontend/.netlify/
+
+# IDE folders
+frontend/.vscode/
+frontend/.idea/
+
+# Misc
+frontend/.eslintcache
+frontend/.turbo/
