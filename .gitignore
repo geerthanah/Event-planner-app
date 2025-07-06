@@ -38,3 +38,34 @@ frontend/.idea/
 # Misc
 frontend/.eslintcache
 frontend/.turbo/
+
+
+# Python virtual environment
+backend/venv/
+backend/.venv/
+
+# Python bytecode
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/*.pyc
+
+# Environment variables
+backend/.env
+backend/.env.*
+
+# Log files
+backend/*.log
+
+# IDE folders
+backend/.vscode/
+backend/.idea/
+
+# OS generated files
+backend/.DS_Store
+backend/Thumbs.db
+
+# Migrations (optional, if you want to ignore them)
+# backend/migrations/
+
+# Database files (if any)
+backend/*.sqlite3
