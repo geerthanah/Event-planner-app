@@ -23,6 +23,18 @@ A application to help you plan and manage events efficiently.
     ```bash
     npm start
     ```
+    ## Backend
 
+    The backend is built with Node.js and Express.
+
+    ### Running the Backend
+
+    1. Navigate to the `backend` directory:
+        ```bash
+        cd backend
+        ```
+    
+
+    The backend server will run on `http://localhost:5000` by default.
 
 
